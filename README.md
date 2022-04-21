@@ -20,8 +20,7 @@
 11 days - **11/04/2022 - 22/04/2022**
 
 ## Project Goal: 
-* Predicting width constrictions during hot rolling using machine learning methods
-<p align="center"><img hrc="https://www.astmsteel.com/wp-content/uploads/2015/08/steel-Industry-imprv-1024x665.jpg"></p>
+*Predicting width constrictions during hot rolling using machine learning methods*
 
 * Dealing with big data from given from the industry
 * Analysing, cleaning and pre-processing all data files
